@@ -12,7 +12,7 @@
 
 
 header {
-  background: url(/images/desktop/image-hero.jpg);
+  background: url(images/desktop/image-hero.jpg);
   padding:50px 100px;
 }
 
@@ -149,42 +149,42 @@ button:hover {
 }
 
 .deep {
-  background: url(/images/desktop/image-deep-earth.jpg);
+  background: url(images/desktop/image-deep-earth.jpg);
   position: relative;
 }
 
 .night {
-  background: url(/images/desktop/image-night-arcade.jpg);
+  background: url(images/desktop/image-night-arcade.jpg);
   position: relative;
 }
 
 .soccer {
-  background: url(/images/desktop/image-soccer-team.jpg);
+  background: url(images/desktop/image-soccer-team.jpg);
   position: relative;
 }
 
 .grid {
-  background: url(/images/desktop/image-grid.jpg);
+  background: url(images/desktop/image-grid.jpg);
   position: relative;
 }
 
 .above {
-  background: url(/images/desktop/image-from-above.jpg);
+  background: url(images/desktop/image-from-above.jpg);
   position: relative;
 }
 
 .pocket {
-  background: url(/images/desktop/image-pocket-borealis.jpg);
+  background: url(images/desktop/image-pocket-borealis.jpg);
   position: relative;
 }
 
 .curiosity {
-  background: url(/images/desktop/image-curiosity.jpg);
+  background: url(images/desktop/image-curiosity.jpg);
   position: relative;
 }
 
 .fisheye {
-  background: url(/images/desktop/image-fisheye.jpg);
+  background: url(images/desktop/image-fisheye.jpg);
   position: relative;
 }
 
@@ -349,42 +349,42 @@ footer {
 }
 
 .deep {
-  background: url(/images/mobile/image-deep-earth.jpg);
+  background: url(images/mobile/image-deep-earth.jpg);
   position: relative;
 }
 
 .night {
-  background: url(/images/mobile/image-night-arcade.jpg);
+  background: url(images/mobile/image-night-arcade.jpg);
   position: relative;
 }
 
 .soccer {
-  background: url(/images/mobile/image-soccer-team.jpg);
+  background: url(images/mobile/image-soccer-team.jpg);
   position: relative;
 }
 
 .grid {
-  background: url(/images/mobile/image-grid.jpg);
+  background: url(images/mobile/image-grid.jpg);
   position: relative;
 }
 
 .above {
-  background: url(/images/mobile/image-from-above.jpg);
+  background: url(images/mobile/image-from-above.jpg);
   position: relative;
 }
 
 .pocket {
-  background: url(/images/mobile/image-pocket-borealis.jpg);
+  background: url(images/mobile/image-pocket-borealis.jpg);
   position: relative;
 }
 
 .curiosity {
-  background: url(/images/mobile/image-curiosity.jpg);
+  background: url(images/mobile/image-curiosity.jpg);
   position: relative;
 }
 
 .fisheye {
-  background: url(/images/mobile/image-fisheye.jpg);
+  background: url(images/mobile/image-fisheye.jpg);
   position: relative;
 }
 
